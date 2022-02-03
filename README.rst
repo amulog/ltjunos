@@ -20,7 +20,6 @@ How to obtain the list?
 First, obtain the excel file of a log template list from `System Log Explorer <https://apps.juniper.net/syslog-explorer/>`_.
 You need a Juniper account to obtain it (Guest account is enough).
 
-![where](./syslog_explorer.png)
 
 1. Go to `System Log Explorer <https://apps.juniper.net/syslog-explorer/>`_.
 
@@ -32,7 +31,11 @@ You need a Juniper account to obtain it (Guest account is enough).
 
 5. Then you will get the excel file.
 
-Please take care when using the list because Juniper networks claims a copyright on the list.
+.. figure:: ./syslog_explorer.png
+   :width: 40%
+
+Please take care when using the list
+because Juniper networks prohibits disclosing or redistributing the list.
 
 
 
