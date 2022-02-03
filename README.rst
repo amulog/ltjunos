@@ -32,7 +32,7 @@ You need a Juniper account to obtain it (Guest account is enough).
 5. Then you will get the excel file.
 
 .. figure:: ./syslog_explorer.png
-   :width: 40%
+   :width: 80%
 
 Please take care when using the list
 because Juniper networks prohibits disclosing or redistributing the list.
